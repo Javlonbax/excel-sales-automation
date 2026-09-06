@@ -2,6 +2,10 @@
 
 Python yordamida bir nechta Excel fayllarini avtomatik birlashtirish va savdo hisobotini yaratish loyihasi.
 
+## Dashboard Preview
+
+![Sales Dashboard](images/dashboard.PNG)
+
 ## Features
 
 - Multiple Excel files processing
@@ -13,9 +17,6 @@ Python yordamida bir nechta Excel fayllarini avtomatik birlashtirish va savdo hi
 - Monthly summary
 - Excel dashboard generation
 
-## Dashboard Preview
-
-![Sales Dashboard](images/dashboard.png)
 
 ## Technologies
 
