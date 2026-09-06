@@ -13,6 +13,10 @@ Python yordamida bir nechta Excel fayllarini avtomatik birlashtirish va savdo hi
 - Monthly summary
 - Excel dashboard generation
 
+## Dashboard Preview
+
+![Sales Dashboard](images/dashboard.png)
+
 ## Technologies
 
 - Python
